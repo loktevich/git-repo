@@ -1,7 +1,7 @@
 # git-repo
 СИСТЕМА АВТОБАЗА
 
-LorrieS version 1.0
+LorrieS
 
 Автор: Дмитрий Локтевич
 
