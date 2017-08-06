@@ -1,9 +1,10 @@
 # git-repo
-СИСТЕМА АВТОБАЗА
+MOTOR DEPOT
 
 LorrieS
 
-Автор: Дмитрий Локтевич
+Author: Dmitry Loktevich
 
 e-mail: loktevich@gmail.com
 #
+Studying project.
